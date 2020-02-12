@@ -1,0 +1,71 @@
+h1{
+    background-color:black;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-transform: uppercase;
+    text-decoration: chocolate;
+    text-shadow: crimson;
+    animation-direction: alternate-reverse;
+    border-style: dotted ;
+    padding: 10px;
+    
+}
+.first{
+    background-color:gray;
+    background-origin: border-box;
+    border-radius: 90%;
+    border-style: double;
+    border-style: dotted;
+    background-attachment: scroll;
+    background-position: bottom;
+}
+.sec{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+
+}
+h3{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+    border-style: dotted;
+    border-style: dotted;
+    padding-block: 30%;
+}
+.neon{
+    text-align: center;
+    background-color:lightcyan;
+    font-style: italic;
+    font-size: x-large;
+    
+}
+h2{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    text-indent: 4%;
+    font-style: italic;
+    font-size: x-large;
+}
+h4{
+    background-color: turquoise;
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+}
+.third{
+    background-color:grey;
+    text-align: right;
+    color: indigo;
+    font-size: x-large;
+    font-style: italic;
+    font-stretch: narrower;
+}
